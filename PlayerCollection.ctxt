@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PlayerCollection
+comment0.text=\r\n\ The\ is\ a\ collection\ of\ Players\ for\ each\ team\r\n\ Sets\ the\ Players\ assigned\ to\ each\ team\r\n\ \r\n\ \r\n\ @author\ (nusrat\ Mojumder)\r\n\ @version\ (11.05.2018)\r\n
+comment1.params=
+comment1.target=PlayerCollection()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ PlayerCollection\r\n
+comment2.params=playersOfTeam
+comment2.target=PlayerCollection(java.util.ArrayList)
+comment2.text=\r\n\ User-Defined\ Constructor\ for\ objects\ of\ class\ PlayerCollection\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getPlayerCollection()
+comment3.text=\r\n\ An\ Accessor\ get\ method\ for\ the\ playerCollection\ Field\r\n\r\n\ @param\ \ \ \ \ none\r\n\ @return\ \ \ \ the\ playerCollection\ field\ \r\n
+comment4.params=newPlayer
+comment4.target=void\ setPlayerCollection(Player)
+comment4.text=\r\n\ A\ Mutator\ set\ method\ for\ the\ playerCollection\ Field\r\n\r\n\ @param\ \ \ \ \ newPlayer\ \ a\ Player\ class\ object\ to\ add\ to\ the\ arraylist\r\n\ @return\ \ \ \ nothing\r\n
+comment5.params=playerName
+comment5.target=boolean\ createPlayers(java.lang.String)
+comment5.text=\r\n\ A\ method\ for\ the\ creating\ the\ players\ from\ user\ input\r\n\r\n\ @param\ \ \ \ \ playerName\ \ a\ String\ value\ containing\ players\ name\r\n\ @return\ \ \ \ a\ boolean\ value\ indicating\ if\ name\ was\ accepted\ and\ player\ was\ created\ or\ not\r\n
+comment6.params=teamName\ playerNo
+comment6.target=void\ createDefaultPlayers(java.lang.String,\ int)
+comment6.text=\r\n\ A\ method\ for\ the\ creating\ the\ players\ by\ defauklt\ values\r\n\r\n\ @param\ \ \ \ \ teamName\ \ a\ String\ value\ containing\ teams\ name\r\n\ @param\ \ \ \ \ playerNo\ \ a\ int\ value\ containing\ player\ number\r\n\ @return\ \ \ \ nothing\r\n
+comment7.params=teamName
+comment7.target=void\ displayPlayers(java.lang.String)
+comment7.text=\r\n\ A\ get\ method\ for\ displaying\ the\ players\ added\ in\ the\ playerCollection\ Field\r\n\r\n\ @param\ \ none\r\n\ @return\ nothing\r\n
+numComments=8

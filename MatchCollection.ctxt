@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MatchCollection
+comment0.text=\r\n\ The\ Players\ for\ each\ Individual\ Team.\r\n\ Sets\ and\ retunrns\ the\ name\ and\ number\ of\ goals\ for\ each\ player\r\n\ \r\n\ \r\n\ @author\ (nusrat\ Mojumder)\r\n\ @version\ (3.05.2018)\r\n
+comment1.params=
+comment1.target=MatchCollection()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ MatchCollection\r\n
+comment2.params=matchTeams
+comment2.target=MatchCollection(java.util.ArrayList)
+comment2.text=\r\n\ User\ Defined\ Constructor\ for\ objects\ of\ class\ MatchCollection\r\n
+comment3.params=matchTeams
+comment3.target=void\ setMatchCollection(java.util.ArrayList)
+comment4.params=
+comment4.target=java.util.ArrayList\ getMatchCollection()
+comment5.params=matchTeams
+comment5.target=void\ createMatches(java.util.ArrayList)
+comment5.text=\r\n\ A\ method\ for\ the\ creating\ the\ team\ pairs\ for\ priliminary\ round\ mtches\r\n\r\n\ @param\ \ \ \ \ none\r\n\ @return\ \ \ \ nothing\r\n
+comment6.params=
+comment6.target=void\ displayMatches()
+comment7.params=currentmatchIndex
+comment7.target=java.util.ArrayList\ returnCurrentmatch(int)
+numComments=8

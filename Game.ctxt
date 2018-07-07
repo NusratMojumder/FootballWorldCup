@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ The\ Players\ for\ each\ Individual\ Team.\r\n\ Sets\ and\ returns\ the\ name\ and\ number\ of\ goals\ for\ each\ player\r\n\ \r\n\ \r\n\ @author\ (nusrat\ Mojumder)\r\n\ @version\ (13.05.2018)\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ Game\r\n
+comment2.params=gameTeams\ gameMatches
+comment2.target=Game(TeamCollection,\ MatchCollection)
+comment2.text=\r\n\ User\ Defined\ Constructor\ for\ objects\ of\ class\ Game\r\n
+comment3.params=
+comment3.target=void\ insertMenu()
+comment4.params=gameStatistics
+comment4.target=void\ outputStatistics(java.lang.String)
+comment5.params=
+comment5.target=void\ startGame()
+comment6.params=
+comment6.target=void\ chooseMenuOption()
+comment7.params=roundType
+comment7.target=void\ playGame(java.lang.String)
+comment8.params=
+comment8.target=void\ inputTeams()
+numComments=9
